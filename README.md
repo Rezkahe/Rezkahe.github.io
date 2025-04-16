@@ -37,6 +37,6 @@
 | **Name**   | Reza Kahe | 
 | **Phone Number**   | (+98)9015228839 | 
 | **E-mail**   | <a href="mailto:reezaakahe@gmail.com">reezaakahe@gmail.com</a> | 
-| **LinkedIn**   | <a href="https://www.https://www.linkedin.com/in/reza-kahe-6615162a8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmnHNv%2FRfTFiRzXcuCa0ncA%3D%3D" target="_blank">Visit Page</a> | 
+| **LinkedIn**   | <a href="https://www.linkedin.com/in/reza-kahe-6615162a8" target="_blank">Visit Page</a> | 
 | **Skype**   | live:.cid.c39b11205ad2f1f6 | 
 | **Home**   | shahriar., 3351792166 Tehran (Iran) | 
