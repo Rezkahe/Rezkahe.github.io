@@ -1,7 +1,8 @@
 ## 🎓 Education
 
-- **B.Sc.**, Petroleum engineer	| <a href="https://ut.ac.ir/fa" target="_blank">Tehran University</a> (_SEP 2017 - FEB 2022_)	 			        		
-- **Dip.**, |  Shahed Shahid Kalhor Shahriar (_SEP 2013 - JUL 2017_)
+- **M.Sc.**, Petroleum engineering-production 	| <a href="https://ut.ac.ir/fa" target="_blank">Tehran University</a> (_SEP 2023 - present_)
+- **B.Sc.**, Petroleum engineering	| <a href="https://ut.ac.ir/fa" target="_blank">Tehran University</a> (_SEP 2017 - FEB 2022_)		
+- **Dip.**, |  Shahed Shahid Kalhor-Shahriar (_SEP 2013 - JUL 2017_)
 
 
 
@@ -38,4 +39,4 @@
 | **E-mail**   | <a href="mailto:reezaakahe@gmail.com">reezaakahe@gmail.com</a> | 
 | **LinkedIn**   | <a href="https://www.https://www.linkedin.com/in/reza-kahe-6615162a8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmnHNv%2FRfTFiRzXcuCa0ncA%3D%3D" target="_blank">Visit Page</a> | 
 | **Skype**   | live:.cid.c39b11205ad2f1f6 | 
-| **Home**   | shahriar., 3351792166 Shiraz (Iran) | 
+| **Home**   | shahriar., 3351792166 Tehran (Iran) | 
