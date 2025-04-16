@@ -1,7 +1,7 @@
 ## 🎓 Education
 
 - **B.Sc.**, Petroleum engineer	| <a href="https://ut.ac.ir/fa" target="_blank">Tehran University</a> (_SEP 2017 - FEB 2022_)	 			        		
-- **Dip.**, |  target="_blank">ُShahed Shahid Kalhor Shahriar </a> (_SEP 2013 - JUL 2017_)
+- **Dip.**, |  Shahed Shahid Kalhor Shahriar (_SEP 2013 - JUL 2017_)
 
 
 #### Technical Skills:
